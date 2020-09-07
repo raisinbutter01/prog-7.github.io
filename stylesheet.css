@@ -23,7 +23,6 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png.jpg);
   background-size: cover;
-  color: black;
   text-align: center;
 }
 
@@ -31,12 +30,14 @@ a {
   opacity: 0.7;
   font-size: 40px;
   letter-spacing: 4px;
+  color:red;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   font-size: 18px;
   margin-bottom: 40px;
+  color:blue;
 }
 
 .btn-wrapper {
